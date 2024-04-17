@@ -1,7 +1,7 @@
 {
   "id": "sharedcontent",
   "title": "SharedContent",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -64,6 +64,6 @@
     }
   ],
   "url": "https://github.com/GalloFrancesco04/sharedcontent",
-  "manifest": "https://github.com/GalloFrancesco04/sharedcontent/blob/Main/module.json",
-  "download": "https://github.com/GalloFrancesco04/sharedcontent.git"
+  "manifest": "https://github.com/GalloFrancesco04/sharedcontent/releases/download/test/module.json",
+  "download": "https://github.com/GalloFrancesco04/sharedcontent/releases/download/test/sharedcontent.rar"
 }
